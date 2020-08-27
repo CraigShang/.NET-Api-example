@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\App_Data",
+    "\\Context",
+    "\\Controllers",
+    "\\Interface",
+    "\\Models"
+  ],
+  "PreviewInSolutionExplorer": false
+}
